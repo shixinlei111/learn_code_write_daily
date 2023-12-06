@@ -1,0 +1,296 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="a4fa7ac8-1c45-4b59-9cd8-94dc0d2fa3cb" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="Enum" />
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="jar://$PROJECT_DIR$/../../../../Program Files/Java/jdk1.8.0_151/src.zip!/java/lang/Runnable.java" root0="SKIP_INSPECTION" />
+    <setting file="jar://$PROJECT_DIR$/../../../../Program Files/Java/jdk1.8.0_151/src.zip!/java/lang/Thread.java" root0="SKIP_INSPECTION" />
+    <setting file="jar://$PROJECT_DIR$/../../../../Program Files/Java/jdk1.8.0_151/src.zip!/java/util/ArrayList.java" root0="SKIP_INSPECTION" />
+    <setting file="jar://$PROJECT_DIR$/../../../../Program Files/Java/jdk1.8.0_151/src.zip!/java/util/Collection.java" root0="SKIP_INSPECTION" />
+    <setting file="jar://$PROJECT_DIR$/../../../../Program Files/Java/jdk1.8.0_151/src.zip!/java/util/concurrent/CountDownLatch.java" root0="SKIP_INSPECTION" />
+    <setting file="jar://$PROJECT_DIR$/../../../../Program Files/Java/jdk1.8.0_151/src.zip!/java/util/concurrent/CyclicBarrier.java" root0="SKIP_INSPECTION" />
+    <setting file="jar://$PROJECT_DIR$/../../../../Program Files/Java/jdk1.8.0_151/src.zip!/java/util/concurrent/locks/AbstractQueuedSynchronizer.java" root0="SKIP_INSPECTION" />
+    <setting file="jar://$PROJECT_DIR$/../../../../Program Files/Java/jdk1.8.0_151/src.zip!/java/util/concurrent/locks/Condition.java" root0="SKIP_INSPECTION" />
+    <setting file="jar://$PROJECT_DIR$/../../../../Program Files/Java/jdk1.8.0_151/src.zip!/java/util/concurrent/locks/ReentrantLock.java" root0="SKIP_INSPECTION" />
+    <setting file="jar://$PROJECT_DIR$/../../../../softwares/maven/repository/com/alibaba/fastjson/1.2.47/fastjson-1.2.47-sources.jar!/com/alibaba/fastjson/JSONArray.java" root0="SKIP_INSPECTION" />
+    <setting file="jar://$PROJECT_DIR$/../../../../softwares/maven/repository/com/baomidou/mybatis-plus-core/3.5.1/mybatis-plus-core-3.5.1.jar!/com/baomidou/mybatisplus/core/toolkit/CollectionUtils.class" root0="SKIP_INSPECTION" />
+    <setting file="jar://$PROJECT_DIR$/../../../../softwares/maven/repository/org/slf4j/slf4j-api/1.7.30/slf4j-api-1.7.30-sources.jar!/org/slf4j/Logger.java" root0="SKIP_INSPECTION" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="$PROJECT_DIR$/../../../../softwares/maven/apache-maven-3.9.2" />
+        <option name="userSettingsFile" value="C:\softwares\maven\apache-maven-3.9.2\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="2R5qVeIxqfi73zELyVeCfYW650e" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_directory_selection&quot;: &quot;C:/Users/73457/IdeaProjects/test11/src/main/java/com/example/test11/learn&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/myCode&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;SDKs&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
+    &quot;spring.configuration.checksum&quot;: &quot;f696282aa4cd4f614aa995190cf442fe&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="com.example.test11.learn.design.viewer" />
+      <recent name="com.example.test11.learn.design.Flyweight" />
+      <recent name="com.example.test11.learn.design.command" />
+      <recent name="com.example.test11.learn.design.proxy" />
+      <recent name="com.example.test11.learn.design.Bridge" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\73457\IdeaProjects\test11\src\main\resources" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.example.test11" />
+      <recent name="com.example.test11.learn.design.command" />
+      <recent name="com.example.test11.learn.design.Builder" />
+      <recent name="com.example.test11.learn.design.abstractFactoryMethod" />
+      <recent name="com.example.test11.learn" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.DesignTest.testViewer">
+    <configuration name="DesignTest.test3" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="test11" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.test11.learn.design.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.example.test11.learn.design" />
+      <option name="MAIN_CLASS_NAME" value="com.example.test11.learn.design.DesignTest" />
+      <option name="METHOD_NAME" value="test3" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DesignTest.testCommand" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="test11" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.test11.learn.design.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.example.test11.learn.design" />
+      <option name="MAIN_CLASS_NAME" value="com.example.test11.learn.design.DesignTest" />
+      <option name="METHOD_NAME" value="testCommand" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DesignTest.testProxy" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="test11" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.test11.learn.design.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.example.test11.learn.design" />
+      <option name="MAIN_CLASS_NAME" value="com.example.test11.learn.design.DesignTest" />
+      <option name="METHOD_NAME" value="testProxy" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DesignTest.testViewer" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="test11" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.test11.learn.design.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.example.test11.learn.design" />
+      <option name="MAIN_CLASS_NAME" value="com.example.test11.learn.design.DesignTest" />
+      <option name="METHOD_NAME" value="testViewer" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test11ApplicationTests.test1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="test11" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.test11.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.example.test11" />
+      <option name="MAIN_CLASS_NAME" value="com.example.test11.Test11ApplicationTests" />
+      <option name="METHOD_NAME" value="test1" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test11Application" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="test11" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.test11.Test11Application" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.DesignTest.testViewer" />
+        <item itemvalue="JUnit.Test11ApplicationTests.test1" />
+        <item itemvalue="JUnit.DesignTest.test3" />
+        <item itemvalue="JUnit.DesignTest.testCommand" />
+        <item itemvalue="JUnit.DesignTest.testProxy" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a4fa7ac8-1c45-4b59-9cd8-94dc0d2fa3cb" name="Changes" comment="" />
+      <created>1686550315787</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1686550315787</updated>
+      <workItem from="1686550317202" duration="9961000" />
+      <workItem from="1686706412080" duration="28000" />
+      <workItem from="1686706572552" duration="6251000" />
+      <workItem from="1686724420712" duration="110000" />
+      <workItem from="1686724556659" duration="2024000" />
+      <workItem from="1686816957322" duration="1175000" />
+      <workItem from="1686818190129" duration="156000" />
+      <workItem from="1686881729132" duration="1056000" />
+      <workItem from="1692096168717" duration="3467000" />
+      <workItem from="1692269356315" duration="5769000" />
+      <workItem from="1692667038463" duration="2939000" />
+      <workItem from="1692682341110" duration="10357000" />
+      <workItem from="1693182137425" duration="1384000" />
+      <workItem from="1693558320640" duration="116000" />
+      <workItem from="1693892330706" duration="1806000" />
+      <workItem from="1695178646025" duration="1460000" />
+      <workItem from="1695603980680" duration="12853000" />
+      <workItem from="1695697270598" duration="593000" />
+      <workItem from="1695712265536" duration="846000" />
+      <workItem from="1695715578654" duration="11558000" />
+      <workItem from="1695860977747" duration="45000" />
+      <workItem from="1696750772956" duration="3127000" />
+      <workItem from="1696898333157" duration="4274000" />
+      <workItem from="1696909158860" duration="5805000" />
+      <workItem from="1696926021955" duration="12351000" />
+      <workItem from="1697071894769" duration="894000" />
+      <workItem from="1697099556924" duration="4133000" />
+      <workItem from="1697157744090" duration="2134000" />
+      <workItem from="1697428016246" duration="33087000" />
+      <workItem from="1697686394719" duration="2253000" />
+      <workItem from="1698023191465" duration="10941000" />
+      <workItem from="1698628712923" duration="18605000" />
+      <workItem from="1698886409847" duration="1276000" />
+      <workItem from="1699234108733" duration="11731000" />
+      <workItem from="1700117193882" duration="788000" />
+      <workItem from="1700180830179" duration="1275000" />
+      <workItem from="1700192750923" duration="9284000" />
+      <workItem from="1700212940543" duration="299000" />
+      <workItem from="1700440526897" duration="119000" />
+      <workItem from="1700458535227" duration="18396000" />
+      <workItem from="1701050700050" duration="6253000" />
+      <workItem from="1701151613062" duration="1558000" />
+      <workItem from="1701309551210" duration="807000" />
+      <workItem from="1701323298234" duration="16905000" />
+      <workItem from="1701650060674" duration="14125000" />
+      <workItem from="1701737339154" duration="20145000" />
+      <workItem from="1701822889240" duration="4524000" />
+      <workItem from="1701828008035" duration="3103000" />
+      <workItem from="1701831173973" duration="2681000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$" />
+    </ignored-roots>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/com/example/test11/learn/LearnTest.java</url>
+          <line>25</line>
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/com/example/test11/learn/LearnTest.java</url>
+          <line>104</line>
+          <option name="timeStamp" value="10" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/com/example/test11/learn/design/Builder/KfcWaiter.java</url>
+          <line>8</line>
+          <option name="timeStamp" value="12" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>

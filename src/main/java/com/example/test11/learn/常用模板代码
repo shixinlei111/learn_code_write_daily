@@ -1,0 +1,14 @@
+
+
+ if (id == null){
+            throw new ApiException("非法参数");
+        }
+
+@ModuleAnnotation(moduleName = "用户管理模块")
+  @AuditLogAnnotation(operationName = "编辑用户", resultJson = "{\"successCode\": 1,\"path\": \"$.code\"}")
+
+//idea批量将单行注释替换为多行注释
+//\s*+(.*$)
+/**\n         * $1\n         */
+
+
