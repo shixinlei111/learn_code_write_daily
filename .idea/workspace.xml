@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a4fa7ac8-1c45-4b59-9cd8-94dc0d2fa3cb" name="Changes" comment="" />
+    <list default="true" id="a4fa7ac8-1c45-4b59-9cd8-94dc0d2fa3cb" name="Changes" comment="日常学习写的一些随笔">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -43,7 +45,8 @@
   <component name="MavenImportPreferences">
     <option name="generalSettings">
       <MavenGeneralSettings>
-        <option name="mavenHome" value="$PROJECT_DIR$/../../../../softwares/maven/apache-maven-3.9.2" />
+        <option name="mavenHome" value="Use Maven wrapper" />
+        <option name="useMavenConfig" value="true" />
         <option name="userSettingsFile" value="C:\softwares\maven\apache-maven-3.9.2\conf\settings.xml" />
       </MavenGeneralSettings>
     </option>
@@ -245,7 +248,7 @@
       <workItem from="1701737339154" duration="20145000" />
       <workItem from="1701822889240" duration="4524000" />
       <workItem from="1701828008035" duration="3103000" />
-      <workItem from="1701831173973" duration="2681000" />
+      <workItem from="1701831173973" duration="4732000" />
     </task>
     <servers />
   </component>
@@ -267,6 +270,8 @@
     <ignored-roots>
       <path value="$PROJECT_DIR$" />
     </ignored-roots>
+    <MESSAGE value="日常学习写的一些随笔" />
+    <option name="LAST_COMMIT_MESSAGE" value="日常学习写的一些随笔" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
