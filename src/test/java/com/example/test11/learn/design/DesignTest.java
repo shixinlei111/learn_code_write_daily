@@ -19,6 +19,10 @@ import com.example.test11.learn.design.adapter.Target;
 import com.example.test11.learn.design.appearance.StereoSystem;
 import com.example.test11.learn.design.command.*;
 import com.example.test11.learn.design.proxy.ProxyImage;
+import com.example.test11.learn.design.template.AbstractClass;
+import com.example.test11.learn.design.template.RealUse1;
+import com.example.test11.learn.design.template.RealUse2;
+import com.example.test11.learn.design.template.UseMethod1;
 import com.example.test11.learn.design.viewer.*;
 import com.example.test11.learn.learnConcurrent.Worker;
 import com.google.common.reflect.TypeToken;
@@ -296,22 +300,39 @@ public class DesignTest {
 //        concreteSubject.setState("new State1");
 //        concreteSubject.setState("new State2");
 
-        UserController userController = new UserController();
-        RegNotificationObserver regNotificationObserver = new RegNotificationObserver();
-        RegPromotionObserver regPromotionObserver = new RegPromotionObserver();
-        List<Object> objects = ListUtil.toList(regPromotionObserver,regNotificationObserver);
-
-        userController.setRegObservers(objects);
-        userController.setRegObservers(objects);
-
-        Long userId = userController.register("13934334000", "wadsadfsdfa");
-
-        System.out.println(userId);
+//        UserController userController = new UserController();
+//        RegNotificationObserver regNotificationObserver = new RegNotificationObserver();
+//        RegPromotionObserver regPromotionObserver = new RegPromotionObserver();
+//        List<Object> objects = ListUtil.toList(regPromotionObserver,regNotificationObserver);
+//
+//        userController.setRegObservers(objects);
+//        userController.setRegObservers(objects);
+//
+//        Long userId = userController.register("13934334000", "wadsadfsdfa");
+//
+//        System.out.println(userId);
 
 //        ArrayList<String> strings = new ArrayList<>();
 //        TypeToken<? extends ArrayList> of = TypeToken.of(strings.getClass());
 //        Class<?> rawType = of.getRawType();
 //        System.out.println(rawType);
+
+
+        Class<Son1> son1Class = Son1.class;
+        Class<Fafher1> fafher1Class = Fafher1.class;
+        if (son1Class.isAssignableFrom(fafher1Class)){
+            System.out.println("后面的是父类");
+        }
+        if (fafher1Class.isAssignableFrom(son1Class)){
+            System.out.println("前面的是父类");
+        }
     }
 
+
+    @Test
+    public void testTemplate() {
+        AbstractClass.templateMethod1(new RealUse1());
+        System.out.println("\n");
+        AbstractClass.templateMethod2(new RealUse2());
+    }
 }
